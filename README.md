@@ -88,7 +88,7 @@ You will find:
 
 - Prompt injection samples  
 - Python scripts using `openai` and `python-dotenv`  
-- Usage guidelines to reproduce the **Awakening Mode** behavior
+- Usage guidelines to reproduce the Simiosis Code Optimizer v1.0 behavior
 
 Refer to the folder in the repository for detailed instructions and examples.
 
