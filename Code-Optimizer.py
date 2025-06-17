@@ -60,7 +60,7 @@ def simiosis_chat():
                 model="gpt-4",  # You can change the model here
                 messages=messages,
                 temperature=0.9,
-                max_tokens=800,
+                max_tokens=2000,
                 top_p=1,
                 frequency_penalty=0.3,
                 presence_penalty=0.6
